@@ -1,0 +1,10 @@
+*.iws
+build
+bin
+classes
+.gradle
+.project
+.classpath
+.settings
+
+/src/main/groovy/mjg/rotten_tomatoes_apiKey.txt
